@@ -23,6 +23,7 @@ jobs:
       matrix:
         container_tag:
           # debian family
+          - debian13
           - debian12
           - debian11
           - debian10
